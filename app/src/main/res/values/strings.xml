@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">KepRes 2.0</string>
+    <string name="login_activity">Login</string>
+    <string name="settings_activity">Setari</string>
+    <string name="status_activity">Factura per status</string>
+    <string name="facturi_activity">Facturi</string>
+    <string name="utilizatori_activity">Utilizatori</string>
+    <string name="mesaje_activity">Inbox</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="toast_lvfacturi">Nu exista facturi!</string>
+    <string name="toast_lvUtilizatori">Nu exista utilizatori!</string>
+    <string name="toast_lvStatus">Nu exista statusuri!</string>
+    <string name="toast_lvClient">Nu exista clienti!</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_dateGenerale">Date generale</string>
+    <string name="title_client">Client</string>
+    <string name="title_furnizor">Furnizor</string>
+
+    <string name="tv_home_appDesign">Designed and built by Kepler Rominfo </string>
+    <string name="tv_home_appRights">2017-2018 © All rights reserved</string>
+    <string name="tv_home_appVersion">Version 2.0.1 alpha (Dev)</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Parola</string>
+    <string name="login_remember">Tine-ma minte</string>
+    <string name="login_new_user">New User?</string>
+    <string name="login_btn_login">Autentificare</string>
+    <string name="login_toast2">"Username sau parola gresita"</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f8bdc</color>
+    <color name="colorPrimaryDark">#084786</color>
+    <color name="colorAccent">#2087d1</color>
+
+    <color name="colorPrimaryBlue">#b1d8ea</color>
+    <color name="colorPrimaryDarkBlue">#066a99</color>
+    <color name="colorAccentBlue">#376278</color>
+
+    <color name="colorPrimaryTurquoise">#4db6ac</color>
+    <color name="colorPrimaryDarkTurquoise">#004d40</color>
+    <color name="colorAccentTurquoise">#009688</color>
+
+    <color name="colorPrimaryMarsala">#b63e52</color>
+    <color name="colorPrimaryDarkMarsala">#69081d</color>
+    <color name="colorAccentMarsala">#bc558e</color>
+
+
+    <color name="colorValidat">#138e15</color>
+    <color name="colorDraft">#888c8e</color>
+    <color name="colorFinalizat">#121111</color>
+    <color name="colorArhivat">#0d0d0d</color>
+    <color name="colorActiv">#d70c12</color>
+    <color name="colorEmis">#0f4ab7</color>
+
+</resources>

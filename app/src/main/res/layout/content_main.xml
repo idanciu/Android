@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_main"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.intern.myapplication.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <WebView
+        android:id="@+id/homeText"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textStyle="italic"
+        android:gravity="left|right"
+        android:textColor="#0173B9"
+        android:textSize="15dp" />
+
+
+    <WebView
+        android:id="@+id/tv_appDesign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/tv_appVersion"
+        android:layout_marginBottom="10dp"
+        android:textColor="#7d8184"
+        android:text="@string/tv_home_appDesign"
+        android:textSize="10dp" />
+
+    <WebView
+        android:id="@+id/tv_appVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp"
+        android:textColor="#7d8184"
+        android:text="@string/tv_home_appVersion"
+        android:textSize="10dp" />
+
+</RelativeLayout>
